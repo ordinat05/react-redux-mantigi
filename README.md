@@ -1,3 +1,14 @@
+### Ekran görüntüleri 1 --> 
+![alt resim](https://raw.githubusercontent.com/ordinat05/react-redux-mantigi/master/src/AppScreenShot/react-reduxShema-1.png)
+
+### Ekran görüntüleri 2
+![alt resim](https://raw.githubusercontent.com/ordinat05/react-redux-mantigi/master/src/AppScreenShot/reduxSS.PNG)
+
+### Ekran görüntüleri 3
+![alt resim](https://raw.githubusercontent.com/ordinat05/react-redux-mantigi/master/src/AppScreenShot/reduxVSCODE3folder.PNG)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
